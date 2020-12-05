@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item">120dp</dimen>
+    <dimen name="icon">30dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="margin_card">5dp</dimen>
+</resources>

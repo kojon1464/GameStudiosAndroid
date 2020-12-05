@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/all"
+            android:title="@string/filter_all"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:checked="true">
+        </item>
+        <item android:id="@+id/favourite"
+            android:title="@string/filter_favorites"
+            android:icon="@android:drawable/ic_menu_preferences">
+        </item>
+        <item android:id="@+id/indie"
+            android:title="@string/filter_indie_studios"
+            android:icon="@android:drawable/ic_menu_preferences">
+        </item>
+        <item android:id="@+id/small"
+            android:title="@string/filter_medium_studios"
+            android:icon="@android:drawable/ic_menu_preferences">
+        </item>
+        <item android:id="@+id/aaa"
+            android:title="@string/filter_aaa_studios"
+            android:icon="@android:drawable/ic_menu_preferences">
+        </item>
+    </group>
+</menu>

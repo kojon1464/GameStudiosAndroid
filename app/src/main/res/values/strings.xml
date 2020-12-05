@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Game Designers</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_represents_description">Logo that represents design studio</string>
+    <string name="studio_size">Studio size:</string>
+    <string name="favourite_description">Add/Remove to favourite control</string>
+    <string name="size_indie">Indie</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_aaa">AAA Studio</string>
+    <string name="filter_all">All</string>
+    <string name="filter_indie_studios">Indie Studios</string>
+    <string name="filter_medium_studios">Medium Studios</string>
+    <string name="filter_aaa_studios">AAA Studios</string>
+    <string name="filter_favorites">Favorites</string>
+    <string name="description">Description</string>
+    <string name="games">Games</string>
+    <string name="gallery">Gallery</string>
+    <string name="description_bohemia">"Pushing the aspects of simulation and freedom, Bohemia Interactive has built up a diverse portfolio of products, which includes the popular Arma® and Take On® series, DayZ®, and various other kinds of proprietary software. With its high-profile intellectual properties, multiple development teams across several locations, and its own motion capturing and sound recording studio, Bohemia Interactive has grown in 15 years to be a key player in the PC game entertainment industry.
+
+Founded in 1999, Bohemia Interactive released its first major game Arma: Cold War Assault (originally released as Operation Flashpoint: Cold War Crisis*) in 2001. Developed by a small team of people, and published by Codemasters, the PC-exclusive game became a massive success. It sold over 1.2 million copies, won multiple industry awards, and was praised by critics and players alike. Riding the wave of success, Bohemia Interactive created the popular expansion Arma: Resistance (originally released as Operation Flashpoint: Resistance*) released in 2002.
+
+Following the release of its debut game, Bohemia Interactive took on various ambitious new projects, and was involved in establishing a successful spin-off business in serious gaming and simulations with its first game for training: VBS1. In 2005, Bohemia Interactive released Operation Flashpoint: Elite* for Xbox – followed by Arma in 2007, which marked the studio’s first full independent release without support from a major publisher.
+
+Afterwards, the studio started to work on Arma 2. This project also marked the beginning of Bohemia Interactive’s co-operation with two other Czech game development studios, Altar Games and Black Element Software, who assisted in the development of the Arma: Queens Gambit expansion and Arma 2. They were both officially acquired by Bohemia Interactive soon after. Arma 2 proved to be another success for Bohemia Interactive, and remained a priority for several years after release, resulting in several expansions, such as Arma 2: Operation Arrowhead, Arma 2: British Armed Forces, Arma 2: Private Military Company, and Arma 2: Army of the Czech Republic."</string>
+    <string name="description_riot_games">"Riot Games was founded in 2006 to develop, publish, and support the most player-focused games in the world. In 2009, we released our debut title, League of Legends, to worldwide acclaim. League has gone on to be the most-played PC game in the world and a key driver of the explosive growth of esports.
+
+
+
+As League enters its second decade, we’re continuing to evolve the game while delivering new experiences to players with Teamfight Tactics, Legends of Runeterra, VALORANT, League of Legends: Wild Rift, and multiple work-in-progress titles. We’re also expanding the world of Runeterra through multimedia projects across music, comic books, board games, and the upcoming animated series Arcane.
+
+
+
+The annual League of Legends World Championship features qualified esports teams from 12 international leagues. Worlds is the most widely viewed and followed esport tournament, and it’s among the largest and most popular gaming and sporting events in the world.
+
+
+Founded by Brandon Beck and Marc Merrill, and led by CEO Nicolo Laurent, Riot is headquartered in Los Angeles, California, and has 2,500+ Rioters in 20+ offices worldwide. We’ve been featured on numerous lists including Fortune’s “100 Best Companies to Work For,” “25 Best Companies to Work in Technology,” “100 Best Workplaces for Millennials,” and “50 Best Workplaces for Flexibility.”"</string>
+    <string name="description_blizzard">"WITAJ W BLIZZARDZIE
+W Blizzard Entertainment wkładamy mnóstwo serca we wszystko, co robimy. To dzięki naczelnym wartościom firmy, towarzyszącym nam każdego dnia, zapewniamy graczom niesamowite doświadczenia. Nieważne kim jesteś i skąd pochodzisz – czy należysz do naszej tętniącej życiem społeczności, pracujesz w jednym z naszych biur rozsianych po całym świecie, czy też wszędzie zabierasz ze sobą odrobinę Blizzarda nawet w kosmos – wszyscy są tu mile widziani.
+
+Nasze wartości
+Oddani tworzeniu najbardziej niesamowitej rozrywki wszech czasów. Osiem podstawowych wartości Blizzard Entertainment oddaje zasady i przekonania, które prowadzą naszą spółkę od lat. Wartości te są odzwierciedlane w decyzjach i działaniach, jakie podejmują nasi pracownicy każdego dnia.
+
+ Sukces wszystkiego, co robimy w Blizzard Entertainment, płynie z jednego, głównego źródła: fenomenalnej rozgrywki, jaką zapewniamy naszym graczom. Celem każdego działu w spółce, od graficznego i programowania, aż po obsługę klienta, jest zagwarantowanie jak najlepszej zabawy jak największej liczbie ludzi.       "</string>
+    <string name="description_activision">"For more than 40 years, Activision has been changing the way people play.  In the process, we have built one of the largest portfolios of recognized brands and today we are one of the most valuable interactive entertainment companies in the world.
+
+Founded in 1979 as the first independent video game software developer and distributor, the company launched a series of multi-million unit selling titles in the early 1980s for the Atari 2600 including Pitfall, Kaboom! and River Raid.   And since then, Activision has created some of the most iconic and memorable game experiences of all time.
+
+Today, the company is a leading worldwide developer, publisher and distributor of interactive entertainment and leisure products for various consoles, handheld platforms and the PC.   Over the past five years, we have continued to thrive as a leading digital entertainment provider whose games appeal to a variety of gamers.
+
+We strive to make the most fun, thrilling, and engaging entertainment experiences for our players, who live in a world with many entertainment options.
+
+We operate in more than 15 countries including in the U.S., Canada, Brazil, Mexico, the United Kingdom, France, Germany, Ireland, Italy, Sweden, Spain, Denmark, the Netherlands, Australia, Singapore, mainland China, Hong Kong and the region of Taiwan.
+
+We recognize that our success is built upon the shared dedication of great people whose sense of mutual respect and teamwork drives our performance. "</string>
+    <string name="description_blendo_games">"BLENDO GAMES
+
+Blendo Games is an award-winning independent games company run by Brendon Chung. Brendon has been making games for 20+ years, since the ancient before-times.
+
+Their work is known for rich worlds, storytelling, and well-crafted gameplay. The company was founded in 2010 and is located in Los Angeles, and has developed for PC, Mac, and Linux.
+
+
+History
+Hi, I'm Brendon Chung. I founded Blendo Games and I make video games. I'm a game designer, artist, and programmer. Some Blendo titles have won awards, including the IGF Seumas McNally Grand Prize, the IGF Excellence in Design, and the IndieCade Grand Jury.
+
+I've given various talks at the Game Developers Conference [1] [2] and panel talks at IndieCade, TwitchCon, LudoNarraCon, and more. Prior to founding Blendo Games, I was a level designer at Pandemic Studios.
+
+Outside of Blendo Games, I'm also a co-founder of Los Angeles art collective Glitch City.
+
+Blendo Games is my full-time job, but I am open to short-term design consulting or narrative consulting. Please reach me via email."</string>
+    <string name="description_heart_machine">"The studio was founded by Preston in 2013 to support development of Hyper Light Drifter, a game that he was leading the development on during a crowdfunding campaign. The name Heart Machine draws from various medical conditions related to congenital heart disease that Preston had suffered and which were also inspirations for Hyper Light Drifter.[1]
+
+With Hyper Light Drifter far exceeding its crowdfunding goals, Preston established Heart Machine in Glitch Space, an open co-operative office area he had helped previously establish in Culver City, California for other independent developers.[2] Hyper Light Drifter was released in 2016 to generally positive reviews and received several gaming award nominations.
+
+The studio announced its next title, Solar Ash, in March 2019, to be published on Windows by Annapurna Interactive. According to Preston, the studio had been working on Solar Ash for some time after finishing up release on Hyper Light Drifter, and the new game includes "a whole new set of incredible tech and key innovations".[3] It is said to be set in the same universe as Hyper Light Drifter[4] but is not a direct sequel to that game.[5] Alx Preston is once again acting as the main designer, with Zoë Quinn writing for the narrative. Rich Vreeland (Disasterpeace) is slated to return to compose music for it. For the new game, Heart Machine have decided to abandon the 2D pixel art style and instead opt for a more open 3D world with a third-person camera view of the player character,[6] although they have tried to retain the original game's world aestethics and translated it to the new style. Preston have said that console releases are in the works as well.[5] An introduction trailer has been revealed in June 2020 at PS5 digital showcase with the game set to be released in 2021.[7]"</string>
+    <string name="description_bloober_games">"Bloober Team SA is an independent producer of video games, the games are known for their difficulty and challenging gameplay. The company was founded in 2008 by Peter Babieno and Peter Bielatowicz. The business began with contract work, however, after obtaining the necessary experience and gathering a talented team ‘Bloober Team’ began work on it’s own projects. The overall aim of the company is to create sophisticated, character driven titles with unique worlds, designed for the most demanding of customers."</string>
+    <string name="description_11_bit">"OUR STORY
+It all started in 2009, when a bunch of veterans of polish gaming industry joined their forces and founded 11 bit studios. They gathered few talented people and got to work. After a year our first child was born – Anomaly Warzone Earth hit the stores. Quickly it became a huge success, with great sales and number of industry awards, including Apple Design Award.
+
+It was a proof that we were on the right track and in the next few years we repeated the success with Anomaly 2, Anomaly Korea and few other games. But you know what they say – the more you have, the more you want so in 2012 we decided it was time for something bigger.
+
+For the next two years we worked on our upcoming title. Bigger and better than ever before, but what’s even more important – a game that had a potential to touch people. A game that could matter. Something, that hasn’t been done before. A thing to be played and discussed for years to come. In the end of 2014 we were ready and our greatest achievement to this day had it’s premiere. On 14th of November This War of Mine had its release and everything had changed.
+
+The cost of development were covered in first weekend after the premiere, and since then the game keeps being one of the topsellers on Steam and other distribution platforms. The game got over 100 awards and was covered as a phenomenon in the biggest magazines and newspapers all around the world including TIME, EDGE, Washington Post and more.
+
+This brings us to the place where we are today. This War of Mine is still selling really well, being one of the most successful indie titles of the last decade. Our next big game, Frostpunk, turned out to be an even bigger commercial success, earning great reviews across industry and mainstream media alike. Teaming up with Digital Sun Games ended up in bringing Moonlighter to PCs and consoles, and both Frostpunk and Moonlighter reached the #1 top-selling spot on Steam.
+
+They did the job leaving a mark – be it great reviews from gamers, entertainment they deliver or thoughts that stay in your head once you leave Frostpunk’s universe. Working with the devs of Moonlighter not only was a pleasant experience, but has proved that our publishing program that allows developers from all around the world to release their indie games with our help, is functioning really well. We’re on our way of delivering better and better games to the world!
+
+That’s our story so far, but we are quite sure there is more to come."</string>
+    <string name="picture_gallery_studio">picture form gallery of game studio</string>
+</resources>

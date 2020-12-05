@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_card"
+        android:layout_marginTop="@dimen/margin_card"
+        android:layout_marginRight="@dimen/margin_card"
+        android:layout_marginBottom="@dimen/margin_card"
+        android:elevation="100dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_item"
+            android:paddingLeft="@dimen/margin"
+            android:paddingTop="@dimen/margin"
+            android:paddingRight="@dimen/margin"
+            android:paddingBottom="@dimen/margin">
+
+            <ImageView
+                android:id="@+id/logo_IV"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/logo_represents_description"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent=".60"
+                tools:srcCompat="@drawable/logo_bohemia_black" />
+
+            <TextView
+                android:id="@+id/name_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/size_label_TV"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/logo_IV"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/size_label_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/studio_size"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/logo_IV"
+                app:layout_constraintTop_toBottomOf="@+id/name_TV" />
+
+            <TextView
+                android:id="@+id/size_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/size_label_TV"
+                app:layout_constraintStart_toStartOf="@+id/size_label_TV"
+                app:layout_constraintTop_toBottomOf="@+id/size_label_TV" />
+
+            <ImageView
+                android:id="@+id/favourite_IV"
+                android:layout_width="@dimen/icon"
+                android:layout_height="@dimen/icon"
+                android:contentDescription="@string/favourite_description"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/star" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</layout>
